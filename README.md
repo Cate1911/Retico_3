@@ -1,2 +1,4 @@
 # Retico_3
-Este repositorio contiene todo el Reto 3.
+## Algoritmo para plantear números primos hasta n
+* **_Con Github_**  
+```pseudocode

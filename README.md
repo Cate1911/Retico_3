@@ -27,7 +27,7 @@ Paso 7. Elevar al cuadrado el primer número de la lista
  Si el cuadrado de este número se encuentra en la lista
   eliminar el cuadrado de ese número y repetir el Paso 7 con el siguiente número de la lista 
  sino
-  escribir ("los números primos que hay desde i hasta n son: (desplegar la lista de los números que quedaron)")
+  escribir ("los números primos que hay desde i hasta n son: (mencionar los números que quedaron en la lista)")
 fin
   
 

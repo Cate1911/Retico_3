@@ -31,7 +31,10 @@ Paso 7. Elevar al cuadrado el primer número de la lista
 fin
 ```
 * **_Con Diagrama de Flujo_**
-<span>https://github.com/Cate1911/Retico_3/blob/main/Algoritmo%201.drawio.png?raw=true</span>
+
+<span>![image](https://github.com/Cate1911/Retico_3/assets/141857246/88989812-4e9e-4994-a54d-b0a597433a44)
+</span>
+
 ## Algoritmo para hallar la raíz cuadrada de cualquier número real
 ```pseudocode
 Algoritmo raíz cuadrada de cualquier número real
@@ -61,7 +64,7 @@ Paso 4. dividir ese resultado entre 5 y escribir el 5 a un lado
    dividir ese resultado entre 5, escribir el 5 a un lado y repetir el Paso 4 con el resultado que le dió.
   sino
    continuar con el paso 5
-Paso 5. dividir ese resultado entre 5 y escribir el 7 a un lado
+Paso 5. dividir ese resultado entre 7 y escribir el 7 a un lado
  Mientras ese resultado dé como residuo de su división 0 hacer
   Si ese resultado tiene como residuo de su división 0 entonces
    dividir ese resultado entre 7, escribir el 7 a un lado y repetir el Paso 5 con el resultado que le dió.

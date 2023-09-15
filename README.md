@@ -31,7 +31,7 @@ Paso 7. Elevar al cuadrado el primer número de la lista
 fin
 ```
 * **_Con Diagrama de Flujo_**
-
+<span>https://github.com/Cate1911/Retico_3/blob/main/Algoritmo%201.drawio.png?raw=true</span>
 ## Algoritmo para hallar la raíz cuadrada de cualquier número real
 ```pseudocode
 Algoritmo raíz cuadrada de cualquier número real

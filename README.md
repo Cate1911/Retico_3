@@ -15,8 +15,8 @@ b := 5
 c := 11
 Paso 1. Ingrese un número entero (n)
 Paso 2. Cree una lista de números desde i hasta n
-Paso 3. Eliminar de la lista todos los números (≠i) que terminen en 0, 2, 4, 6 y 8.
-Paso 4. Sumar todas las cifras del número siguiente a b hasta que su resultado quede expresado en 1 cifra.
+Paso 3. Eliminar de la lista todos los números (≠i) que terminen en 0, 2, 4, 6 y 8
+Paso 4. Sumar todas las cifras del número siguiente a b hasta que su resultado quede expresado en 1 cifra
  Si ese resultado es igual a 3, 6 o 9 entonces
   eliminar ese número de la lista
  sino
@@ -31,21 +31,7 @@ Paso 7. Elevar al cuadrado el primer número de la lista
 fin
 ```
 * **_Con Diagrama de Flujo_**
-```mermaid
-flowchart TB;
-    A(Inicio) --> B[n : número natural];
-    B --> C[i := 2];
-    C --> D[Iniciar lista de números primos: primos = []];
-    D --> E[i <= n];
-    E --> F{¿i es primo?};
-    F -- Sí --> G[Agregar i a la lista de primos];
-    G --> H;
-    F -- No --> H;
-    H --> I[i := i + 1];
-    I --> D;
-    E -- No --> J[Mostrar lista de números primos];
-    J --> K(fin);
-```
+
 ## Algoritmo para hallar la raíz cuadrada de cualquier número real
 ```pseudocode
 Algoritmo raíz cuadrada de cualquier número real

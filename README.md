@@ -32,7 +32,7 @@ fin
 ```
 * **_Con Diagrama de Flujo_**
 ```mermaid
-flowchart TD
+flowchart TB;
     A(Inicio) --> B[n : número natural];
     B --> C[i := 2];
     C --> D[Iniciar lista de números primos: primos = []];

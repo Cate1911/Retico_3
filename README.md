@@ -1,7 +1,7 @@
 # Retico_3
 ## Algoritmo para plantear números primos hasta n
 
-Para plantear este algoritmo, me basé en los números primos base múltiplos de cualquier otro número; es decir, tomé como base al 2, 3, 5, 7, 11, 13 debido a que estos números son de los cuales se derivan los otros números, debido a que son la base para la formación de números más grandes como el 24, 32, 111, 315, 33999999, etc.->esto se relaciona con el mínimo común múltiplo. 
+Para plantear este algoritmo, me basé en los números primos base múltiplos de cualquier otro número; es decir, tomé como base al 2, 3, 5, 11, 13 debido a que estos números son de los cuales se derivan los otros números, debido a que son la base para la formación de números más grandes como el 24, 32, 111, 315, 33999999, etc.->esto se relaciona con el mínimo común múltiplo. 
 * **_Con Github_**  
 ```pseudocode
 Algoritmo números primos hasta n
